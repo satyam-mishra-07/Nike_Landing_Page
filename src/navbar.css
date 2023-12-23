@@ -1,0 +1,55 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@600&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@600&display=swap');
+
+
+.nav{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 100%;
+    height: 72px;
+}
+
+.nav .logo {
+    position: absolute;
+    left: 58px;
+    width: 76px;
+    height: 42.75px;
+}
+
+.navItems ul{
+    display: flex;
+    display: inline-flex;
+    align-items: flex-start;
+    gap: 24px;
+    list-style-type: none;
+}
+
+.navItems ul li a{
+    color: #2E2E2E;
+    font-family: Poppins;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 600;
+    line-height: normal;
+    text-decoration: none;
+}
+
+.btn{
+    position: absolute;
+    right: 52px;
+    margin: 3px;
+}
+
+.btn button{
+    color: #FFF;
+    font-family: Inter;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 600;
+    line-height: normal;
+    padding: 5px 15px;
+    background-color: red;
+    font-size: 16px;
+    border: 2px;
+}
