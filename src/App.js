@@ -4,10 +4,10 @@ import HeroSection from './componets/HeroSection.js';
 
 function App() {
   return (
-  <>
-  <Navbar />
-  <HeroSection />
-  </>
+    <>
+    <Navbar />
+    <HeroSection />
+    </>
   );
 }
 
