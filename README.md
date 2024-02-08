@@ -1,4 +1,4 @@
-# Project Live at: https://nike-landing-page-82azlvm1d-satyam-mishra-07s-projects.vercel.app/
+# Project Live at: https://nike-landing-page-beige.vercel.app/
 
 # Getting Started with Create React App
 
